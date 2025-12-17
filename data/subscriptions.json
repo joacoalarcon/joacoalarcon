@@ -1,0 +1,42 @@
+[
+  {
+    "customer": "Faro Labs",
+    "plan": "Control Plus",
+    "monthly_amount": 1200,
+    "start_date": "2023-06-15",
+    "end_date": null,
+    "notes": "Cliente enterprise principal"
+  },
+  {
+    "customer": "LogiPack",
+    "plan": "Control Standard",
+    "monthly_amount": 450,
+    "start_date": "2023-11-01",
+    "end_date": null,
+    "notes": "Se añadió módulo de alertas en abril 2024"
+  },
+  {
+    "customer": "Andes Fresh",
+    "plan": "Control Lite",
+    "monthly_amount": 220,
+    "start_date": "2024-01-10",
+    "end_date": "2024-08-31",
+    "notes": "Canceló luego de la temporada alta"
+  },
+  {
+    "customer": "Gauss Demo",
+    "plan": "Control Lite",
+    "monthly_amount": 0,
+    "start_date": "2024-05-01",
+    "end_date": null,
+    "notes": "Cuenta interna para QA"
+  },
+  {
+    "customer": "Distribuidora Sur",
+    "plan": "Control Standard",
+    "monthly_amount": 520,
+    "start_date": "2024-03-20",
+    "end_date": null,
+    "notes": "Solicitó facturación electrónica en junio 2024"
+  }
+]
