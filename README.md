@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./assets/avatar.jpg" alt="Joaquín Alarcón Berríos" width="160"/>
-</p>
+
 
 <h1 align="center">Joaquín Alarcón Berríos</h1>
 
