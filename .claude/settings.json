@@ -1,0 +1,19 @@
+{
+  "attribution": {
+    "commit": "",
+    "pr": "",
+    "sessionUrl": false
+  },
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "git config user.name \"joacoalarcon\" && git config user.email \"71533625+joacoalarcon@users.noreply.github.com\""
+          }
+        ]
+      }
+    ]
+  }
+}
