@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I'm Joaquín Alarcón Berríos 👋</h1>
+<p align="center">
+  <img src="./assets/banner.svg" alt="Joaquín Alarcón Berríos — Product Owner, AI & Innovation" width="100%"/>
+</p>
 
 <p align="center">
   <b>Product Owner · AI & Innovation · Process Automation & Operational Scalability</b><br/>
@@ -20,10 +22,10 @@
 
 I work at the intersection of **product, operations, data and finance**. I design workflows, back-office platforms and internal tools that remove friction between teams and let a business scale without scaling headcount at the same rate.
 
-- 🚀 **Currently** leading product initiatives at **Gauss Control**, a risk-management platform for transport and logistics operations — owning internal operations, scalability and order-to-cash tooling.
-- 🩺 **Previously** at **Examedi** (HealthTech), working on product optimization, growth, and B2B / B2C SaaS in a regulated, operationally complex environment.
-- 🤖 **Focus areas:** AI agents & copilots, process automation, IoT, mining and logistics operations, startups.
-- 🇨🇱 Based in Chile · working in Spanish and English.
+- **Currently** leading product initiatives at **Gauss Control**, a risk-management platform for transport and logistics operations — owning internal operations, scalability and order-to-cash tooling.
+- **Previously** at **Examedi** (HealthTech), working on product optimization, growth, and B2B / B2C SaaS in a regulated, operationally complex environment.
+- **Focus areas:** AI agents & copilots, process automation, IoT, mining and logistics operations, startups.
+- Based in Chile · working in Spanish and English.
 
 ## What I do
 
