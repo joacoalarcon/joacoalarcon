@@ -1,39 +1,73 @@
-<img src="./assets/avatar.jpg" alt="Joaquín Alarcón Berríos" width="120" align="right"/>
+<p align="center">
+  <img src="./assets/avatar.jpg" alt="Joaquín Alarcón Berríos" width="160"/>
+</p>
 
-# Joaquín Alarcón Berríos
+<h1 align="center">Joaquín Alarcón Berríos</h1>
 
-**Product Owner — AI, process automation and operational scalability.**
-I build products that turn manual, fragmented operations into automated, measurable, data-driven systems.
+<p align="center">
+  <b>Product Owner · AI & Innovation · Process Automation & Operational Scalability</b><br/>
+  Building products that turn manual, fragmented operations into automated, measurable, data-driven systems.
+</p>
 
-[LinkedIn](https://www.linkedin.com/in/joaqu%C3%ADn-alarc%C3%B3n-berr%C3%ADos-b8523075/) · [GitHub](https://github.com/joacoalarcon) · Chile
+<p align="center">
+  <a href="https://www.linkedin.com/in/joaqu%C3%ADn-alarc%C3%B3n-berr%C3%ADos-b8523075/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/joacoalarcon">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
-### Currently
+## About me
 
-Leading product at **Gauss Control**, a risk-management platform for transport and logistics operations. I own internal operations, scalability and order-to-cash tooling: back-office platforms, CRM, workflow automation and AI copilots that let the business grow without growing friction between teams.
+I work at the intersection of **product, operations, data and finance**. I design workflows, back-office platforms and internal tools that remove friction between teams and let a business scale without scaling headcount at the same rate.
 
-### Previously
+- **Currently** leading product initiatives at **Gauss Control**, a risk-management platform for transport and logistics operations — owning internal operations, scalability and order-to-cash tooling.
+- **Previously** at **Examedi** (HealthTech), working on product optimization, growth, and B2B / B2C SaaS in a regulated, operationally complex environment.
+- **Focus areas:** AI agents & copilots, process automation, IoT, mining and logistics operations, startups.
+- Based in Chile · working in Spanish and English.
 
-**Examedi** (HealthTech) — product optimization, growth, and B2B / B2C SaaS in a regulated, operationally complex environment.
-
-### How I work
+## How I work
 
 - **Discovery to delivery.** Problem framing, PRDs, user stories with clear DoR / DoD, sprint planning and prioritization.
 - **Prototype to prove.** I ship working prototypes (Next.js, NestJS, Python) to validate ideas before they hit the roadmap.
 - **Automate the operation.** AI agents, integrations and data pipelines that remove manual work and make processes measurable.
 
-### Selected work
+## What I do
 
-- [**gauss-edp-platform**](https://github.com/joacoalarcon/gauss-edp-platform) — Next.js + NestJS monorepo to manage progress payment statements (EDPs) end to end.
-- [**Copilot-Gauss**](https://github.com/joacoalarcon/Copilot-Gauss) — AI copilot for internal operations.
-- [**aiagentauditor**](https://github.com/joacoalarcon/aiagentauditor) — prototype for auditing and evaluating AI agent behavior.
-- [**polymarket-agents**](./projects/polymarket-agents) — multi-agent framework (scout, risk engine, executor) for prediction-market portfolios.
+| Product | Tech |
+|---|---|
+| Product discovery & roadmapping | AI agents, LLM copilots & workflow automation |
+| PRDs, user stories, DoR / DoD, sprint planning | Full-stack prototyping (Next.js, NestJS, React) |
+| Process design & operational scalability | Data pipelines, dashboards & KPIs |
+| Back-office, CRM & order-to-cash platforms | Integrations (Jira, HubSpot, Google Workspace, n8n) |
 
-### Toolbox
+## Tech stack
 
-TypeScript · Python · React · Next.js · NestJS · Claude & LLM agents · n8n · Jira · HubSpot · Google Workspace
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=flat-square&logo=google&logoColor=white)
+
+## Featured projects
+
+| Project | Description |
+|---|---|
+| [gauss-edp-platform](https://github.com/joacoalarcon/gauss-edp-platform) | Next.js + NestJS monorepo to manage progress payment statements (EDPs) end to end. |
+| [aiagentauditor](https://github.com/joacoalarcon/aiagentauditor) | Prototype for auditing and evaluating AI agent behavior. |
+| [Copilot-Gauss](https://github.com/joacoalarcon/Copilot-Gauss) | AI copilot for internal operations at Gauss Control. |
+| [polymarket-agents](./projects/polymarket-agents) | Multi-agent framework (scout → risk engine → executor) for prediction-market portfolios. |
+| [fimu-web](https://github.com/joacoalarcon/fimu-web) | Official website for FiMU. |
 
 ---
 
-<sub>Open to conversations about product, automation and applied AI in real operations. Reach out on [LinkedIn](https://www.linkedin.com/in/joaqu%C3%ADn-alarc%C3%B3n-berr%C3%ADos-b8523075/).</sub>
+<p align="center"><i>Always happy to talk about product, automation and AI applied to real operations — reach out on LinkedIn.</i></p>
