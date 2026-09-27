@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Joaquín Alarcón Berríos</h1>
+<h1 align="center">Joaco Alarcón</h1>
 
 <p align="center">
   <b>Product Owner · AI & Innovation · Process Automation & Operational Scalability</b><br/>
